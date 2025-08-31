@@ -10,7 +10,7 @@ services:
       - pharmacy-network
 
   db:
-    image: mysql:8
+    image: mysql
     container_name: pharmacy-db
     environment:
       MYSQL_ROOT_PASSWORD: meds
