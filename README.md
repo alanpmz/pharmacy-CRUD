@@ -42,8 +42,11 @@ Java 21 ou superior (para compilar e rodar localmente, caso não use Docker)
 Clone o repositório:
 ```
 git clone https://github.com/alanpmz/pharmacy-crud.git
-cd pharmacy-crud
 ```
+
+Acesse a pasta e abra o terminal:
+
+<img width="730" height="712" alt="Screenshot 2025-08-31 14-01-07" src="https://github.com/user-attachments/assets/f6360372-2c79-4449-aa63-32e7ae8ad950" />
 
 
 Inicie a aplicação com Docker:
@@ -58,7 +61,3 @@ Acesse a aplicação via terminal.
 ## Configuração do Banco de Dados
 
 O banco de dados MySQL será inicializado automaticamente via Docker.
-
-
-
-Scripts de criação de tabelas e inserção inicial podem estar em src/main/resources/db/ (dependendo da estrutura do projeto).
