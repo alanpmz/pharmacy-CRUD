@@ -48,7 +48,7 @@ cd pharmacy-crud
 
 Inicie a aplicação com Docker:
 `
-docker-compose up
+docker-compose run --rm pharmacy-app
 `
 
 Isso irá subir os contêineres do MySQL e da aplicação Java automaticamente. O MySQL ficará disponível na porta 3306 e a aplicação Java na porta definida no docker-compose.yml.

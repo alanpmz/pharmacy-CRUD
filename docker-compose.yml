@@ -5,7 +5,7 @@ services:
     build: .
     container_name: pharmacy-app
     depends_on:
-      - db
+      - pharmacy-db
     networks:
       - pharmacy-network
 
