@@ -1,4 +1,8 @@
 # Pharmacy CRUD
+![Java]([https://img.shields.io/badge/Java-21-blue](https://img.shields.io/badge/Java-21-007396?logo=openjdk&logoColor=white))
+![MySQL]([https://img.shields.io/badge/MySQL-8.0-blue](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white))
+![Docker]([https://img.shields.io/badge/Docker-enabled-blue](https://img.shields.io/badge/Docker-enabled-2496ED?logo=docker&logoColor=white))
+
 
 Sistema CRUD para gerenciamento de estoque de farmácia, permitindo cadastro de fornecedores e medicamentos.
 
