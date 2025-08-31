@@ -5,4 +5,4 @@ COPY . .
 
 RUN javac -d out src/main/java/**/*.java
 
-CMD ["java", "-cp", "out", "Main"]
+CMD ["java", "-cp", "out", "com.alanpmz.Main"]
